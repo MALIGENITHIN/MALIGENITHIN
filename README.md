@@ -27,8 +27,8 @@
 
 - Languages: **Python, JavaScript, C++**
 - Web: **HTML, CSS, Node.js, Express, MongoDB**
-- Tools: **Git, GitHub, Postman, VS Code**
-- Learning: **React, AI/ML basics, SQL**
+- Tools: **GitHub, VS Code**
+- Learning: **AI/ML basics, SQL**
 
 ---
 
