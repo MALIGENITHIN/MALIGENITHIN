@@ -71,7 +71,6 @@
 ## 🤝 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/malige-nithin-b3598935a/)
-- 💻 [LeetCode](https://leetcode.com/u/Nithinmalige/)
 - 📧 Email: maligenithin@gmail.com
 - 📁 GitHub Projects: Check out my work below!
 
